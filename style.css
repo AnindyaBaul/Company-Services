@@ -1,0 +1,77 @@
+body{ 
+    background-color: #EDF4FD;
+}
+
+section{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 50px;
+    position: relative;
+
+}
+.text{
+    text-align: center;
+    /* position: relative; */
+}
+h1{ font-size: 60px;
+    color: #5595E8;
+}
+.border{
+    /* border: 1px solid gray; */
+    border-radius: 10px;
+    box-shadow: 0 0 10px lightgray;
+  
+    
+
+}.card{  height: 497px;
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+
+}
+
+.chobi{
+    width: 100%;
+}
+h2{
+    color: #5595E8 ;
+}
+.learn{
+    width: 178px;
+    height: 44px;
+    background-color: #FA9746;
+    color: white;
+    border: 0;
+    border-radius: 7px;
+}
+.learn:hover{
+    background-color: #639ce7d2;
+    color:white
+}
+.top-text{
+ width: 50%;
+ margin: auto;
+ font-size: 20px;
+}
+.orange{
+    background-color: #FA9746;
+    height: 230px;
+    position: absolute; 
+    z-index: px;
+    top: 50;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+footer{
+
+    height: 200px;
+    background-color: rgba(243, 243, 163, 0.882);
+    color: rgb(121, 131, 153);
+    margin-top: 20px;
+    padding: 30px;
+    
+}
